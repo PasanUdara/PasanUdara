@@ -63,6 +63,11 @@
 
 ---
 
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pasanudara/pasanudara/main/assets/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+</div>
+
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanudara&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" />
@@ -85,6 +90,7 @@
 </div>
 
 ---
+
 
 ## 💭 Quote of the Day
 <div align="center">
