@@ -1,66 +1,49 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Pasan Udara
+# <div align="center">👋 Hi there, I'm **Pasan Udara** 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+Tech+Enthusiast;Full+Stack+Developer;AI%2FML+Explorer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Passionate+Tech+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things;From+Beautiful+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pasanudara&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pasanudara" />
-  <img src="https://img.shields.io/github/followers/pasanudara?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pasanudara&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pasanudara?label=Followers&style=for-the-badge&color=00d4ff" alt="Followers" />
+</div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-```javascript
-const pasan = {
-    location: "Sri Lanka 🇱🇰",
-    role: "Tech Enthusiast & Developer",
-    languages: ["JavaScript", "Python", "Java", "C++", "PHP"],
-    currentFocus: ["React", "Kotlin", "MongoDB", "Express.js", "Node.js", "AI/ML"],
-    hobbies: ["Coding", "Learning New Technologies", "Problem Solving"],
-    motto: "Code, Learn, Innovate, Repeat!"
-};
-```
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🌱 Currently Learning
+- 🔭 Currently exploring **React, Kotlin, MongoDB, Express.js, Node.js, AI/ML**
+- 💬 Ask me about **C, C++, Java, HTML, CSS, Python, MySQL, PHP**
+- 🌱 Always learning and growing in the tech world
+- 📫 Reach me at: **pasanudara356@gmail.com**
+- 🇱🇰 Proudly from **Sri Lanka**
+- ⚡ Fun fact: I love turning coffee into code! ☕→💻
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript,html,css" />
 </div>
 
-## 💻 Tech Stack
-
-### Languages
+### 🚀 Currently Learning
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,kotlin,mongodb,express,nodejs" />
 </div>
 
-### Frontend
+### 🔧 Tools & Technologies
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,linux,git,vscode" />
 </div>
 
-### Database & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pasanudara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -68,20 +51,26 @@ const pasan = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasanudara&theme=tokyonight" alt="pasanudara" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasanudara&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pasanudara&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pasanudara&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
+
+---
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanudara&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasanudara&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" />
 </div>
 
-## 🤝 Connect with Me
+---
+
+## 🌐 Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/pasan-udara" target="_blank">
@@ -90,22 +79,25 @@ const pasan = {
   <a href="mailto:pasanudara356@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://github.com/pasanudara">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
+## 💭 Quote of the Day
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <b>Thanks for visiting my profile! 😊</b>
-  <br>
-  <i>Happy Coding! 🚀</i>
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <h3>✨ "Code is poetry written in logic" ✨</h3>
+  <p>Thanks for visiting my profile! Have a great day! 😊</p>
 </div>
